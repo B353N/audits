@@ -17,7 +17,7 @@ This repository represents my portfolio of smart contract security work.
 | :--------------------------------------------: | :---------:| :-----------------: | :------------------: | :------------------------------------------------------:|
 | [Art Gobblers](https://artgobblers.com/)              |  Sep 2022  |  NFT, Art Factory       | 1H, 3M, 1 Low               | [Source](https://code4rena.com/reports/2022-09-artgobblers#04--missing-checks-for-address0x0-when-assigning-values-to-address-state-variables)| 
 | [Ajna](https://www.ajna.finance/)              |  May 2023  |  Lending, DAO       |  1H, 4M                | |                                         
-| [Beedle](https://github.com/Cyfrin/2023-07-beedle) | Aug 2023 | Lending | 1 Selected 6H 0M 3L | [Source](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)
+| [Beedle](https://github.com/Cyfrin/2023-07-beedle) | Aug 2023 | Lending | 1 Selected 6H 3L | [Source](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)
 
 ## Contacts
 
